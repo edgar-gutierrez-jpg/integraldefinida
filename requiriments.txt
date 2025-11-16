@@ -1,4 +1,0 @@
-sympy
-streamlit
-pandas
-numpy
